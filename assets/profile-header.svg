@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">MagicSonic / dirbusterSync</title>
+  <desc id="desc">A charcoal and warm paper manga-inspired banner. Security, software, data, and games.</desc>
+  <defs>
+    <pattern id="screen" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#a8a6a1" opacity=".22"/></pattern>
+    <pattern id="paper" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#101113" opacity=".14"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="338" rx="3"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#101113"/>
+    <rect width="1200" height="340" fill="url(#screen)"/>
+    <path d="M1020-90 765 450M1088-90 833 450M1165-90 910 450" stroke="#343539" fill="none"/>
+    <circle cx="1080" cy="92" r="190" stroke="#343539" fill="none"/>
+    <circle cx="1080" cy="92" r="151" stroke="#343539" fill="none"/>
+    <path d="M1010 0H1200V340H904Z" fill="#e6e2da"/>
+    <path d="M1010 0H1200V340H904Z" fill="url(#paper)"/>
+    <path d="M1024 0 918 340" stroke="#101113" stroke-width="2"/>
+    <rect x="46" y="34" width="173" height="26" fill="#e6e2da"/>
+    <text x="58" y="52" fill="#111214" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.8">01 / FIELD NOTES</text>
+    <text x="46" y="105" fill="#a8a6a1" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2.7">SEFA / @SEFAFL77</text>
+    <text x="39" y="188" fill="#f2efe9" font-family="Arial, Helvetica, sans-serif" font-size="89" font-weight="900" letter-spacing="-5">MagicSonic</text>
+    <text x="46" y="229" fill="#e6e2da" font-family="Consolas, 'Courier New', monospace" font-size="22" letter-spacing="1.2">dirbusterSync</text>
+    <path d="M46 258H815" stroke="#55565a"/>
+    <text x="46" y="292" fill="#a8a6a1" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">SECURITY / SOFTWARE / DATA / GAMES</text>
+    <text x="1082" y="69" text-anchor="middle" fill="#111214" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">KEEP</text>
+    <text x="1068" y="143" text-anchor="middle" fill="#111214" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="900" letter-spacing="-2">BUILD</text>
+    <text x="1054" y="194" text-anchor="middle" fill="none" stroke="#111214" stroke-width="1.3" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="900" letter-spacing="-2">LEARN</text>
+    <path d="m982 224 137 0m-141 6 137 0" stroke="#111214"/>
+    <text x="1042" y="272" text-anchor="middle" fill="#111214" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2">REPEAT.</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="3" fill="none" stroke="#55565a"/>
+</svg>
