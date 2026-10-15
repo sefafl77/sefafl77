@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/profile-banner.svg" alt="Sefaca F. Lukmana / dirbusterSync — security, software, data and games" width="100%">
+  <img src="assets/profile-banner.svg?v=2" alt="dirbusterSync / Sefaca F. Lukmana — security, software, data and games" width="100%">
 </p>
 
 <h1 align="center">dirbusterSync</h1>
