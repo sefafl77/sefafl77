@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/dirbustersync-header.svg" alt="dirbusterSync — The Monster. Lemmings / Dead Mount Death Play." width="100%">
+  <img src="assets/profile-banner.svg" alt="Sefaca F. Lukmana / dirbusterSync — security, software, data and games" width="100%">
 </p>
 
 <h1 align="center">dirbusterSync</h1>
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://sefafl.online"><img src="https://img.shields.io/badge/Portfolio-sefafl.online-e6e2da?style=for-the-badge&labelColor=191a1d" alt="Personal portfolio"></a>
   <a href="https://pentest.sefafl.online"><img src="https://img.shields.io/badge/Write--ups-PenSefter-e6e2da?style=for-the-badge&labelColor=191a1d" alt="PenSefter security write-ups"></a>
-  <img src="https://img.shields.io/badge/HTB-dirbusterSync-e6e2da?style=for-the-badge&labelColor=191a1d" alt="dirbusterSync on Hack The Box">
+  <a href="https://profile.hackthebox.com/profile/019e88ef-71df-7377-bf11-2f8ba9a08f89?utm_medium=copy_url"><img src="https://img.shields.io/badge/HTB-dirbusterSync-e6e2da?style=for-the-badge&labelColor=191a1d" alt="dirbusterSync on Hack The Box"></a>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Security platforms of interest — detection, endpoint telemetry, and incident r
 </p>
 <p align="center">
   <a href="https://www.datadoghq.com/product/cloud-siem/"><img src="assets/security/datadog-card.svg" alt="Datadog Cloud SIEM" width="200" height="140"></a>
-  <a href="https://www.opentext.com/products/enterprise-security-manager"><img src="assets/security/arcsight-card.svg" alt="OpenText ArcSight — SIEM" width="200" height="140"></a>
+  <a href="https://www.opentext.com/products/enterprise-security-manager"><img src="assets/security/arcsight-logo-card.svg" alt="ArcSight — SIEM" width="200" height="140"></a>
   <a href="https://learn.microsoft.com/en-us/azure/sentinel/sentinel-overview"><img src="assets/security/microsoft-sentinel-card.svg" alt="Microsoft Sentinel — SIEM" width="200" height="140"></a>
 </p>
 <p align="center">
