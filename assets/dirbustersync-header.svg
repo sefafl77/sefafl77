@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">dirbusterSync — The Monster</title>
+  <desc id="desc">Charcoal, paper, and silence. Lemmings from Dead Mount Death Play. The Monster is the title of episode five.</desc>
+  <defs>
+    <pattern id="screen" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#a8a6a1" opacity=".22"/></pattern>
+    <pattern id="paper" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".65" fill="#101113" opacity=".14"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="338" rx="3"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#101113"/>
+    <rect width="1200" height="340" fill="url(#screen)"/>
+    <path d="M1020-90 765 450M1088-90 833 450M1165-90 910 450" stroke="#343539" fill="none"/>
+    <circle cx="1080" cy="92" r="190" stroke="#343539" fill="none"/>
+    <circle cx="1080" cy="92" r="151" stroke="#343539" fill="none"/>
+    <path d="M1010 0H1200V340H904Z" fill="#e6e2da"/>
+    <path d="M1010 0H1200V340H904Z" fill="url(#paper)"/>
+    <path d="M1024 0 918 340" stroke="#101113" stroke-width="2"/>
+    <rect x="46" y="34" width="114" height="26" fill="#e6e2da"/>
+    <text x="58" y="52" fill="#111214" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1.5">DMDP / 05</text>
+    <text x="46" y="105" fill="#a8a6a1" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">@sefafl77</text>
+    <text x="40" y="186" fill="#f2efe9" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900" letter-spacing="-4">dirbusterSync</text>
+    <text x="46" y="232" fill="#e6e2da" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-style="italic">The Monster</text>
+    <path d="M46 261H815" stroke="#55565a"/>
+    <text x="46" y="296" fill="#a8a6a1" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1.5">Lemmings / Dead Mount Death Play</text>
+    <text x="1072" y="176" text-anchor="middle" fill="#111214" font-family="Georgia,serif" font-size="91" letter-spacing="8">...</text>
+    <path d="M990 208H1143" stroke="#55565a"/>
+    <text x="1062" y="242" text-anchor="middle" fill="#111214" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="1.8">Lemmings</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="3" fill="none" stroke="#55565a"/>
+</svg>

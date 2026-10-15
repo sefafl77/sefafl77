@@ -1,15 +1,15 @@
 ﻿<p align="center">
-  <img src="assets/profile-header.svg" alt="MagicSonic / dirbusterSync — security, software, data and games" width="100%">
+  <img src="assets/dirbustersync-header.svg" alt="dirbusterSync — The Monster. Lemmings / Dead Mount Death Play." width="100%">
 </p>
 
-<h1 align="center">Hey, I'm Sefa <sub>(MagicSonic)</sub></h1>
+<h1 align="center">dirbusterSync</h1>
 
 <p align="center">
   <strong>Security research · Software engineering · AI & data · Game development</strong>
 </p>
 
 <p align="center">
-  MagicSonic on GitHub. dirbusterSync on Hack The Box.<br>
+  Sefa · @sefafl77 on GitHub · dirbusterSync on Hack The Box.<br>
   I build useful software, explore security in authorized labs, and turn what I learn into tools, games, and practical notes.
 </p>
 
@@ -36,11 +36,15 @@
 Security platforms of interest — detection, endpoint telemetry, and incident response.
 
 <p align="center">
-  <a href="https://www.splunk.com/en_us/products/enterprise-security.html"><img src="assets/security/splunk-card.svg" alt="Splunk Enterprise Security — SIEM" width="160" height="112"></a>
-  <a href="https://www.elastic.co/security"><img src="assets/security/elastic-card.svg" alt="Elastic Security — SIEM and XDR" width="160" height="112"></a>
-  <a href="https://wazuh.com/platform/overview/"><img src="assets/security/wazuh-card.svg" alt="Wazuh — SIEM and XDR" width="160" height="112"></a>
-  <a href="https://www.crowdstrike.com/en-us/platform/endpoint-security/falcon-insight-xdr/"><img src="assets/security/crowdstrike-card.svg" alt="CrowdStrike Falcon — EDR and XDR" width="160" height="112"></a>
-  <a href="https://www.sentinelone.com/platform/singularity-xdr-protection/"><img src="assets/security/sentinelone-card.svg" alt="SentinelOne Singularity — EDR and XDR" width="160" height="112"></a>
+  <a href="https://www.splunk.com/en_us/products/enterprise-security.html"><img src="assets/security/splunk-card.svg" alt="Splunk Enterprise Security — SIEM" width="200" height="140"></a>
+  <a href="https://www.elastic.co/security"><img src="assets/security/elastic-card.svg" alt="Elastic Security — SIEM and XDR" width="200" height="140"></a>
+  <a href="https://wazuh.com/platform/overview/"><img src="assets/security/wazuh-card.svg" alt="Wazuh — SIEM and XDR" width="200" height="140"></a>
+  <a href="https://www.datadoghq.com/product/cloud-siem/"><img src="assets/security/datadog-card.svg" alt="Datadog Cloud SIEM" width="200" height="140"></a>
+  <a href="https://www.opentext.com/products/enterprise-security-manager"><img src="assets/security/arcsight-card.svg" alt="OpenText ArcSight — SIEM" width="200" height="140"></a>
+  <a href="https://learn.microsoft.com/en-us/azure/sentinel/sentinel-overview"><img src="assets/security/microsoft-sentinel-card.svg" alt="Microsoft Sentinel — SIEM" width="200" height="140"></a>
+  <a href="https://www.crowdstrike.com/en-us/platform/endpoint-security/falcon-insight-xdr/"><img src="assets/security/crowdstrike-card.svg" alt="CrowdStrike Falcon — EDR and XDR" width="200" height="140"></a>
+  <a href="https://www.sentinelone.com/platform/singularity-xdr-protection/"><img src="assets/security/sentinelone-card.svg" alt="SentinelOne Singularity — EDR and XDR" width="200" height="140"></a>
+  <a href="https://www.trendmicro.com/en_us/business/products/one-platform.html"><img src="assets/security/trendmicro-card.svg" alt="Trend Micro Vision One — EDR and XDR" width="200" height="140"></a>
 </p>
 
 ## Selected work
@@ -54,10 +58,10 @@ Security platforms of interest — detection, endpoint telemetry, and incident r
 ## Hack The Box / dirbusterSync
 
 **Professional rank · Level 46**<br>
-Season 12: **Silver Tier · #1532 · 175 points · 6/18 flags**
+Season 12: **Silver Tier · #109 · 175 points · 6/18 flags**
 
 <p align="center">
-  <img src="assets/htb-profile-snapshot.png" alt="HTB profile screenshot of dirbusterSync: Professional rank, Level 46; Season 12 Silver Tier, season position 1532, 175 points and 6 of 18 flags" width="100%">
+  <img src="assets/htb-profile-latest.png" alt="Latest HTB profile screenshot of dirbusterSync: Professional rank, Level 46; Season 12 Silver Tier, season position 109, 175 points and 6 of 18 flags" width="100%">
 </p>
 
 <p align="center"><sub>Profile snapshot shared on 16 October 2026.</sub></p>
