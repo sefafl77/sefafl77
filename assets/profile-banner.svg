@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">dirbusterSync / Sefaca F. Lukmana</title><desc id="desc">A quiet charcoal banner with warm white typography and an original sculptural wireframe.</desc>
+<title id="title">dirbusterSync · Sefaca F. Lukmana</title><desc id="desc">A quiet charcoal banner with warm white typography and an original sculptural wireframe.</desc>
 <defs>
  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151619"/><stop offset=".6" stop-color="#0d0e10"/><stop offset="1" stop-color="#17181b"/></linearGradient>
  <radialGradient id="light"><stop stop-color="#d8d4cb" stop-opacity=".13"/><stop offset="1" stop-color="#d8d4cb" stop-opacity="0"/></radialGradient>
@@ -22,5 +22,7 @@
  <text x="64" y="300" fill="#85858a" font-family="Consolas,'Courier New',monospace" font-size="13" letter-spacing=".4">@sefafl77</text>
  <circle cx="174" cy="296" r="1.5" fill="#66666c"/>
  <text x="194" y="300" fill="#b0aea8" font-family="Consolas,'Courier New',monospace" font-size="13" letter-spacing=".4">sefafl.online</text>
+ <circle cx="354" cy="296" r="1.5" fill="#66666c"/>
+ <text x="374" y="300" fill="#b0aea8" font-family="Consolas,'Courier New',monospace" font-size="13" letter-spacing=".4">pentest.sefafl.online</text>
 </g><rect x="1" y="1" width="1198" height="358" rx="14" fill="none" stroke="#343539"/>
 </svg>

@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/profile-banner.svg?v=2" alt="dirbusterSync / Sefaca F. Lukmana — security, software, data and games" width="100%">
+  <img src="assets/profile-banner.svg?v=3" alt="dirbusterSync · Sefaca F. Lukmana: security, software, data and games" width="100%">
 </p>
 
 <h1 align="center">dirbusterSync</h1>
@@ -33,31 +33,31 @@
 
 ## SIEM / EDR / XDR
 
-Security platforms of interest — detection, endpoint telemetry, and incident response.
+Security platforms of interest: detection, endpoint telemetry, and incident response.
 
 <p align="center">
-  <a href="https://www.splunk.com/en_us/products/enterprise-security.html"><img src="assets/security/splunk-card.svg" alt="Splunk Enterprise Security — SIEM" width="200" height="140"></a>
-  <a href="https://www.elastic.co/security"><img src="assets/security/elastic-card.svg" alt="Elastic Security — SIEM and XDR" width="200" height="140"></a>
-  <a href="https://wazuh.com/platform/overview/"><img src="assets/security/wazuh-card.svg" alt="Wazuh — SIEM and XDR" width="200" height="140"></a>
+  <a href="https://www.splunk.com/en_us/products/enterprise-security.html"><img src="assets/security/splunk-card.svg" alt="Splunk Enterprise Security: SIEM" width="200" height="140"></a>
+  <a href="https://www.elastic.co/security"><img src="assets/security/elastic-card.svg" alt="Elastic Security: SIEM and XDR" width="200" height="140"></a>
+  <a href="https://wazuh.com/platform/overview/"><img src="assets/security/wazuh-card.svg" alt="Wazuh: SIEM and XDR" width="200" height="140"></a>
 </p>
 <p align="center">
   <a href="https://www.datadoghq.com/product/cloud-siem/"><img src="assets/security/datadog-card.svg" alt="Datadog Cloud SIEM" width="200" height="140"></a>
-  <a href="https://www.opentext.com/products/enterprise-security-manager"><img src="assets/security/arcsight-logo-card.svg" alt="ArcSight — SIEM" width="200" height="140"></a>
-  <a href="https://learn.microsoft.com/en-us/azure/sentinel/sentinel-overview"><img src="assets/security/microsoft-sentinel-card.svg" alt="Microsoft Sentinel — SIEM" width="200" height="140"></a>
+  <a href="https://www.opentext.com/products/enterprise-security-manager"><img src="assets/security/arcsight-logo-card.svg" alt="ArcSight: SIEM" width="200" height="140"></a>
+  <a href="https://learn.microsoft.com/en-us/azure/sentinel/sentinel-overview"><img src="assets/security/microsoft-sentinel-card.svg" alt="Microsoft Sentinel: SIEM" width="200" height="140"></a>
 </p>
 <p align="center">
-  <a href="https://www.crowdstrike.com/en-us/platform/endpoint-security/falcon-insight-xdr/"><img src="assets/security/crowdstrike-card.svg" alt="CrowdStrike Falcon — EDR and XDR" width="200" height="140"></a>
-  <a href="https://www.sentinelone.com/platform/singularity-xdr-protection/"><img src="assets/security/sentinelone-card.svg" alt="SentinelOne Singularity — EDR and XDR" width="200" height="140"></a>
-  <a href="https://www.trendmicro.com/en_us/business/products/one-platform.html"><img src="assets/security/trendmicro-card.svg" alt="Trend Micro Vision One — EDR and XDR" width="200" height="140"></a>
+  <a href="https://www.crowdstrike.com/en-us/platform/endpoint-security/falcon-insight-xdr/"><img src="assets/security/crowdstrike-card.svg" alt="CrowdStrike Falcon: EDR and XDR" width="200" height="140"></a>
+  <a href="https://www.sentinelone.com/platform/singularity-xdr-protection/"><img src="assets/security/sentinelone-card.svg" alt="SentinelOne Singularity: EDR and XDR" width="200" height="140"></a>
+  <a href="https://www.trendmicro.com/en_us/business/products/one-platform.html"><img src="assets/security/trendmicro-card.svg" alt="Trend Micro Vision One: EDR and XDR" width="200" height="140"></a>
 </p>
 
 ## Selected work
 
-- **[PenSefter](https://pentest.sefafl.online)** — my Hack The Box write-ups: the clues, reasoning, and steps behind each attack path.
-- **[Personal portfolio](https://sefafl.online)** — a closer look at my software, security, and game development work.
-- **[CVE-2025-27591 PoC](https://github.com/sefafl77/CVE-2025-27591-PoC)** — an educational security research implementation. Use only in an authorized test environment.
-- **AI and market data** — building an Indonesian stock-market analysis dashboard for research and decision support.
-- **Game prototypes** — experimenting with gameplay systems and interactive experiences.
+- **[PenSefter](https://pentest.sefafl.online)**: my Hack The Box write-ups, with the clues, reasoning, and steps behind each attack path.
+- **[Personal portfolio](https://sefafl.online)**: a closer look at my software, security, and game development work.
+- **[CVE-2025-27591 PoC](https://github.com/sefafl77/CVE-2025-27591-PoC)**: an educational security research implementation. Use only in an authorized test environment.
+- **AI and market data**: building an Indonesian stock-market analysis dashboard for research and decision support.
+- **Game prototypes**: experimenting with gameplay systems and interactive experiences.
 
 ## Hack The Box / dirbusterSync
 
