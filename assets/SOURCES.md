@@ -1,6 +1,6 @@
 # Asset sources
 
-- `profile-banner.svg`: original vector artwork featuring Sefaca F. Lukmana / dirbusterSync, a charcoal surface, warm white typography, and a procedural wireframe sculpture. Name spelling follows the account owner's portfolio data.
+- `profile-banner-v3.svg`: original vector artwork featuring Sefaca F. Lukmana / dirbusterSync, a charcoal surface, warm white typography, and a procedural wireframe sculpture. Name spelling follows the account owner's portfolio data.
 - `htb-profile-latest.png`: latest screenshot provided by the account owner on 16 October 2026. Season 12 position is #109. Metrics describe that screenshot, not a live feed.
 - `security/splunk.svg` and `security/elastic.svg`: [Simple Icons](https://github.com/simple-icons/simple-icons), CC0; brand trademarks remain with their respective owners.
 - `security/wazuh.svg`: Wazuh wordmark embedded on the [official Wazuh website](https://wazuh.com/).
